@@ -1,0 +1,41 @@
+Mod Version: 1.0.0
+
+Changelog: (Provide a list of changes or updates made in each version of the mod)
+
+Version 1.0.0:
+Added Darkuim Ore
+Added Voidcrystal Ore
+Added Darkuim Crystal Item
+Added Void Crystal Item
+Added Abyssal Luna Seed
+Added Eclipse Power Potion
+Added Darkuim Voidforged Tools and Armor
+Added Voidcrystal Tools and Armor
+Added Darkuim Crystal Block
+Added Abyssal Crystalum Stone Block
+Added Achievement: Darkuim Master
+Added Achievement: Luna Eclipse of the Abyss
+Added Feast of the Abyss Food
+Added Abyssal Stone
+Added Abyssal Cobblestone
+Added Abyssal Brick
+Names List:
+
+Darkuim Ore
+Voidcrystal Ore
+Darkuim Crystal Item
+Void Crystal Item
+Abyssal Luna Seed
+Eclipse Power Potion
+Darkuim Voidforged Tools and Armor
+Voidcrystal Tools and Armor
+Darkuim Crystal Block
+Abyssal Crystalum Stone Block
+Achievement: Darkuim Master
+Achievement: Luna Eclipse of the Abyss
+Feast of the Abyss Food
+Abyssal Stone
+Abyssal Cobblestone
+Abyssal Brick
+
+soon update 1.1.0
